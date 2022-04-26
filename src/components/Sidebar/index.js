@@ -36,7 +36,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https:/www.linkedin.com/in/adrian-changalombo-iba"
+            href="https://www.linkedin.com/in/adrian-changalombo-iba"
             target="_blank"
             rel="noreferrer"
           >
